@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Daniel Diaz\\OneDrive\\Documentos\\ArquitecturaSoftware\\NorthWind\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE38C17-5FF0-437A-A1B1-459B197E2A95}|NothWind.ConsoleApp\\NothWind.ConsoleApp.csproj|c:\\users\\daniel diaz\\onedrive\\documentos\\arquitecturasoftware\\northwind\\nothwind.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE38C17-5FF0-437A-A1B1-459B197E2A95}|NothWind.ConsoleApp\\NothWind.ConsoleApp.csproj|solutionrelative:nothwind.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECD82FD-8F8B-43E6-9BC6-53CB68CAAAAE}|NorthWind.Writers\\NorthWind.Writers.csproj|c:\\users\\daniel diaz\\onedrive\\documentos\\arquitecturasoftware\\northwind\\northwind.writers\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECD82FD-8F8B-43E6-9BC6-53CB68CAAAAE}|NorthWind.Writers\\NorthWind.Writers.csproj|solutionrelative:northwind.writers\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECD82FD-8F8B-43E6-9BC6-53CB68CAAAAE}|NorthWind.Writers\\NorthWind.Writers.csproj|c:\\users\\daniel diaz\\onedrive\\documentos\\arquitecturasoftware\\northwind\\northwind.writers\\consolewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECD82FD-8F8B-43E6-9BC6-53CB68CAAAAE}|NorthWind.Writers\\NorthWind.Writers.csproj|solutionrelative:northwind.writers\\consolewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECD82FD-8F8B-43E6-9BC6-53CB68CAAAAE}|NorthWind.Writers\\NorthWind.Writers.csproj|c:\\users\\daniel diaz\\onedrive\\documentos\\arquitecturasoftware\\northwind\\northwind.writers\\northwind.writers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1ECD82FD-8F8B-43E6-9BC6-53CB68CAAAAE}|NorthWind.Writers\\NorthWind.Writers.csproj|solutionrelative:northwind.writers\\northwind.writers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECD82FD-8F8B-43E6-9BC6-53CB68CAAAAE}|NorthWind.Writers\\NorthWind.Writers.csproj|c:\\users\\daniel diaz\\onedrive\\documentos\\arquitecturasoftware\\northwind\\northwind.writers\\debugwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECD82FD-8F8B-43E6-9BC6-53CB68CAAAAE}|NorthWind.Writers\\NorthWind.Writers.csproj|solutionrelative:northwind.writers\\debugwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE38C17-5FF0-437A-A1B1-459B197E2A95}|NothWind.ConsoleApp\\NothWind.ConsoleApp.csproj|c:\\users\\daniel diaz\\onedrive\\documentos\\arquitecturasoftware\\northwind\\nothwind.consoleapp\\sevices\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE38C17-5FF0-437A-A1B1-459B197E2A95}|NothWind.ConsoleApp\\NothWind.ConsoleApp.csproj|solutionrelative:nothwind.consoleapp\\sevices\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +34,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": []
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Diaz\\OneDrive\\Documentos\\ArquitecturaSoftware\\NorthWind\\NorthWind.Writers\\FileWriter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Writers\\FileWriter.cs",
+              "ToolTip": "C:\\Users\\Daniel Diaz\\OneDrive\\Documentos\\ArquitecturaSoftware\\NorthWind\\NorthWind.Writers\\FileWriter.cs",
+              "RelativeToolTip": "NorthWind.Writers\\FileWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:41:59.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DebugWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Diaz\\OneDrive\\Documentos\\ArquitecturaSoftware\\NorthWind\\NorthWind.Writers\\DebugWriter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Writers\\DebugWriter.cs",
+              "ToolTip": "C:\\Users\\Daniel Diaz\\OneDrive\\Documentos\\ArquitecturaSoftware\\NorthWind\\NorthWind.Writers\\DebugWriter.cs",
+              "RelativeToolTip": "NorthWind.Writers\\DebugWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:15:51.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Diaz\\OneDrive\\Documentos\\ArquitecturaSoftware\\NorthWind\\NothWind.ConsoleApp\\Sevices\\AppLogger.cs",
+              "RelativeDocumentMoniker": "NothWind.ConsoleApp\\Sevices\\AppLogger.cs",
+              "ToolTip": "C:\\Users\\Daniel Diaz\\OneDrive\\Documentos\\ArquitecturaSoftware\\NorthWind\\NothWind.ConsoleApp\\Sevices\\AppLogger.cs",
+              "RelativeToolTip": "NothWind.ConsoleApp\\Sevices\\AppLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:59:41.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Diaz\\OneDrive\\Documentos\\ArquitecturaSoftware\\NorthWind\\NorthWind.Writers\\ConsoleWriter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Writers\\ConsoleWriter.cs",
+              "ToolTip": "C:\\Users\\Daniel Diaz\\OneDrive\\Documentos\\ArquitecturaSoftware\\NorthWind\\NorthWind.Writers\\ConsoleWriter.cs",
+              "RelativeToolTip": "NorthWind.Writers\\ConsoleWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:41:34.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NorthWind.Writers",
+              "DocumentMoniker": "C:\\Users\\Daniel Diaz\\OneDrive\\Documentos\\ArquitecturaSoftware\\NorthWind\\NorthWind.Writers\\NorthWind.Writers.csproj",
+              "RelativeDocumentMoniker": "NorthWind.Writers\\NorthWind.Writers.csproj",
+              "ToolTip": "C:\\Users\\Daniel Diaz\\OneDrive\\Documentos\\ArquitecturaSoftware\\NorthWind\\NorthWind.Writers\\NorthWind.Writers.csproj",
+              "RelativeToolTip": "NorthWind.Writers\\NorthWind.Writers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T00:35:26.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Diaz\\OneDrive\\Documentos\\ArquitecturaSoftware\\NorthWind\\NothWind.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "NothWind.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel Diaz\\OneDrive\\Documentos\\ArquitecturaSoftware\\NorthWind\\NothWind.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "NothWind.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:57:06.676Z",
+              "EditorCaption": ""
+            }
+          ]
         }
       ]
     }
