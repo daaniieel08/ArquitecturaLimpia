@@ -11,13 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("NorthWind.Writers")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("WPFApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86d439f3996f7adc673efcd1dfecba78f5ff35e4")]
-[assembly: System.Reflection.AssemblyProductAttribute("NorthWind.Writers")]
-[assembly: System.Reflection.AssemblyTitleAttribute("NorthWind.Writers")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+586be55eda97c4686b850f0a5af110699d36cd9e")]
+[assembly: System.Reflection.AssemblyProductAttribute("WPFApp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("WPFApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 

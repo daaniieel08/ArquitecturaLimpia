@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("NorthWind.Writers")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LabScript")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86d439f3996f7adc673efcd1dfecba78f5ff35e4")]
-[assembly: System.Reflection.AssemblyProductAttribute("NorthWind.Writers")]
-[assembly: System.Reflection.AssemblyTitleAttribute("NorthWind.Writers")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f8d42d892ed14aae44552b53f09550535c8dcdc")]
+[assembly: System.Reflection.AssemblyProductAttribute("LabScript")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LabScript")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
